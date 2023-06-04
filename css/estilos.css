@@ -173,9 +173,9 @@ header .menu .c3:hover{background-color: #002d44;}
     height: 40px;
 }
 
-.redes-sociales .twitter {background: #1da1f2;}
+.redes-sociales .github {background: #000000;}
 .redes-sociales .instagram {background: #8b3aba;}
-.redes-sociales .facebook {background: #3b5998;}
+.redes-sociales .linkedin {background: #0A66C2;}
 
 @media screen and (max-width: 576px){
     .redes-sociales .icono{
