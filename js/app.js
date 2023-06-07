@@ -7,3 +7,8 @@ imagenes.forEach((imagen) => {
         imagenModal.src = ruta;
     });
 });
+
+function enviarFormulario() {
+    // Aquí puedes realizar cualquier acción adicional antes de mostrar el alert
+    alert("Mensaje enviado correctamente!");
+  }
