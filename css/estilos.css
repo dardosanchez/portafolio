@@ -27,13 +27,16 @@ header .logo p{
     color: #777777;
 }
 
-header .menu .c1 {background-color: #3da5e2;}
-header .menu .c2 {background-color: #005385;}
-header .menu .c3 {background-color: #003855;}
+header .menu .c1 {background-color: #83c6ee;}
+header .menu .c2 {background-color: #3da5e2;}
+header .menu .c3 {background-color: #005385;}
+header .menu .c4 {background-color: #003855;}
 
-header .menu .c1:hover{background-color: #1ba0ef;}
-header .menu .c2:hover{background-color: #00426a;}
-header .menu .c3:hover{background-color: #002d44;}
+header .menu .c1:hover{background-color: #73bce6;}
+header .menu .c2:hover{background-color: #1ba0ef;}
+header .menu .c3:hover{background-color: #00426a;}
+header .menu .c4:hover{background-color: #002d44;}
+
 
 /*  Portafolio  */ 
 .portafolio {
